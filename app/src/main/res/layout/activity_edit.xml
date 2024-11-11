@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             app:boxBackgroundColor="@android:color/white"
-            app:boxStrokeColor="@android:color/white">
+            app:boxStrokeColor="@android:color/black">
             <EditText
                 android:id="@+id/etNama"
                 android:layout_width="match_parent"
